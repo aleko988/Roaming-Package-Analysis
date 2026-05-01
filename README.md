@@ -6,7 +6,7 @@ from GLOBALCELL, a Georgian telecom company. Built using Excel for data preparat
 and Power BI for interactive dashboard visualization.
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Dashboard.png)
 
 ## Business Questions Answered
 - Is roaming revenue growing or declining over time?
