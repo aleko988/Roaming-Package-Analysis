@@ -5,6 +5,9 @@ Analysis of 9 months of real telecom roaming package sales data (Jul 2025 – Ma
 from GLOBALCELL, a Georgian telecom company. Built using Excel for data preparation 
 and Power BI for interactive dashboard visualization.
 
+## Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
+
 ## Business Questions Answered
 - Is roaming revenue growing or declining over time?
 - Which countries generate the most revenue?
